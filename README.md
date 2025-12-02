@@ -95,8 +95,8 @@ directory as an argument! See below for installation options.
   (maintained by [@jannis-baum](https://github.com/jannis-baum))
 - `yay -S vivify` for [AUR](https://aur.archlinux.org/packages/vivify)
   (maintained by [@tuurep](https://github.com/tuurep))
-- `nix-shell -I nixpkgs=channel:nixos-unstable -p vivify`
-   for [Nixpkgs](https://search.nixos.org/packages?channel=unstable&query=vivify)
+- `nix-shell -p vivify`
+   for [Nixpkgs](https://search.nixos.org/packages?query=vivify)
   (maintained by [@skohtv](https://github.com/skohtv))
 
 ### Manual
